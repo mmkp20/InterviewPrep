@@ -1,0 +1,68 @@
+Here's a list of live coding interview questions that are commonly asked for a Java software engineer role
+
+1.Reverse a String:
+    Write a function that takes a string as input and returns the reverse of that string.
+
+2.Find the Missing Number:
+    Given an array containing n distinct numbers taken from 0, 1, 2, ..., n,
+    find the one that is missing from the array.
+
+3.Validate Palindrome:
+    Write a function to determine if a given string is a palindrome or not.
+
+4.Implement a LinkedList:
+    Implement a simple LinkedList class with methods
+    to add elements, remove elements, and search for an element.
+
+5.Binary Search:
+    Write a function to perform a binary search on a sorted array and
+    return the index of a given target element, or -1 if it's not present.
+
+6.Merge Sorted Arrays:
+    Given two sorted arrays, merge them into a single sorted array.
+
+7.Find Duplicate Elements:
+    Given an array of integers, find all the duplicate elements present in the array.
+->O(N^2) , O(N)
+
+8.Implement a Stack:
+    Implement a Stack data structure with methods to push, pop, and peek at the top element.
+
+9.Reverse a LinkedList:
+    Given a LinkedList, reverse it in-place.
+
+10.Check Balanced Parentheses:
+    Write a function to determine if a given string containing parentheses is balanced or not.
+
+
+------------------------------------------------------------------------------------
+* for coding interview *
+- String and array manipulation : read API about array and string
+
+- Data Structures and Algorithms:
+     Be familiar with
+     arrays, linked lists, stacks, queues, and trees, as well as
+     algorithms like sorting, searching, and graph traversal.
+
+- Object-Oriented Programming (OOP):
+    Understand the principles of OOP,
+    such as encapsulation, inheritance, and polymorphism.
+
+- System Design:
+    Be prepared to discuss and design solutions for scalable and efficient systems.
+    Understand concepts such as load balancing, caching, database sharding, and microservices architecture.
+
+- Code Optimization and Performance:
+    Showcase your ability to write optimized code and improve the performance of existing code.
+    Consider topics like time complexity, space complexity, and algorithmic efficiency.
+
+- Effective Communication and Collaboration:
+    During the live coding interview,
+    clearly communicate your thought process,
+    ask clarifying questions,
+    and engage in a collaborative problem-solving approach with the interviewer.
+
+    * Explain your code, discuss trade-offs, and be receptive to feedback.
+
+Remember, it's essential to practice regularly by solving coding problems, reviewing core concepts,
+and implementing solutions in Java.
